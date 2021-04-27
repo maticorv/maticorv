@@ -1,4 +1,5 @@
-//### Hi there 👋
+<!--### Hi there 👋
+-->
 
 <!--
 **maticorv/maticorv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-// README.md
+<!--README.md
+-->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=maticorv&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=maticorv)
 
-//[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=maticorv&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
+<!--[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=maticorv&repo=repo-name&show_owner=true)](https://github.com/yourusername/repo-name)
+-->
